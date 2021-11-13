@@ -61,7 +61,7 @@ https://www.aliexpress.com/item/32893187261.html
 A kiszereléshez a legolcsóbb megoldás a rézszalag, vagy ónszívó szalag. A lényege, hogy ha véletlenül összeforrasztottál két olyan szemet, amit nem akartál, akkor ezt kell elővenni. Jó rongyosra széthúzgálod, majd a pákával az ónt átmelegíted, miközben hozzáér a szalag. Csak úgy szívni fogja felfelé a felesleges ónt. Kiszerelésnél nagyon-nagyon jól tud jönni. Amíg kezdő vagy, addig úgyse érdemes ónszippantóra költeni. Majd tudni fogod, mikor jön el az ideje. Addig tökéletes lesz ez a szalag. 2-2,5 mm-es szalagot ajánlok. Tudom, hogy nem ez van a dobozkámban, de nincs nagy tudomány benne, így a legolcsóbbak közül érdemes válogatni:
 https://www.aliexpress.com/item/32993497183.html
 
-| ![Ónszívó szalag](/docs/assets/solder-remover-wire) | 
+| ![Ónszívó szalag](/docs/assets/solder-remover-wire.webp) | 
 |:--:| 
 | *Ónszívó szalag* |
 
@@ -69,7 +69,7 @@ FONTOS!!! Soha ne fogd a szalagot magát, csak a dobozát. Brutál jól vezeti a
 A másik folyatószerem olyan dobozban van, mint egy cipőpaszta. Az angol neve flux rosin:
 https://www.aliexpress.com/item/4000081537079.html
 
-| ![Kemény rosin](/docs/assets/solder-remover-wire) | 
+| ![Kemény rosin](/docs/assets/hard-rosin.webp) | 
 |:--:| 
 | *Kemény rosin* |
 
@@ -171,8 +171,10 @@ Továbbra is ajánlom a Hobbielektronika csoportot, a legjobb arcok, és a legse
 ### Videók 
 Köszönet és kudó Walter Reéb, Szabó Bálint illetve Professzore kollégáknak innen is! Nézzétek meg a többi videóikat is, én is nagyon sokat tanultam belőlük!
 
-SMD és DIP különbségek
-https://youtu.be/XTjp5XcysEA
+
+| ![SMD és DIP különbségek](https://youtu.be/XTjp5XcysEA) | 
+|:--:| 
+| *SMD és DIP különbségek* |
 Forrasztás alapok
 https://youtu.be/XTjp5XcysEA
 SMD forrasztás alapok
