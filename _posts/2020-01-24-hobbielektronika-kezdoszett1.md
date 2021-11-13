@@ -1,4 +1,5 @@
 ---
+title: Hobbielektronika - részemről ajánlott kezdő szett (Part 1)
 layout: post
 author: montyx
 ---
