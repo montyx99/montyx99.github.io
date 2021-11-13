@@ -13,7 +13,7 @@ Elég sok mindent az Alin úgy lehet megvenni, hogy nincs forrasztva, max az SMD
 Ezek azok, amiknek a lábai a nyomtatott áramkör (tudom, hogy a NYÁK nem pontosan ezt jelenti, de ma már mindenki erre használja, úgyhogy én is így teszek) tetején vannak, nem pedig kis lyukakon keresztül átlógnak a túloldalra. Az utóbbiak a DIP, vagy Through Hole (magyarul talán furatszerelt a helyes kifejezés) alkatrészek.
 No tehát forrasztanom kellett sokat. Az öreg motorosok, főleg akiknek az elektronika a szakmájuk azt mondják, hogy bármivel lehet forrasztani. Ez így is van. Én is vettem egy ilyesmi forrasztó pákát (soldering iron)...
 
-| ![Olcsó páka](../docs/assets/electric-welder.webp) | 
+| ![Olcsó páka](../../../docs/assets/electric-welder.webp) | 
 |:--:| 
 | *Olcsó páka* |
 
