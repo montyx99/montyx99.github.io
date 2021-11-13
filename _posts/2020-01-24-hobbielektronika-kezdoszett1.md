@@ -82,7 +82,7 @@ https://www.aliexpress.com/item/1961805015.html
 Ezeket csak ajánlom, egyik se must have. Vagy jók kísérletezni és tanulni, vagy pedig hasznosak ezért-azért.
 
 1. ESP32 - Remélhetőleg hamar kinövöd a NodeMCU kereteit. A következő lépésnek a nagytestvért, az ESP32-t ajánlom. Fontos, hogy több verziója is van. Ezekről lehet találni leírást. Én ezt szeretem használni, tudni kell, hogy breadboardra nem fér fel:
-https://www.aliexpress.com/item/33053140589.html
+[ESP32](https://www.aliexpress.com/item/33053140589.html)
 2. Dummy load ellenállás - Arra jó, hogy beterhelj vele valamit, ha épp nincs kéznél valami fogyasztó:
 https://www.aliexpress.com/item/32886533053.html
 3. Mágnesek - Nagyon jók például, ha rögzíteni kell valamit, vagy csavarhúzóra, hogy ki tudj venni vele egy csavart:
