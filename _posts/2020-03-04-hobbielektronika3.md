@@ -83,7 +83,7 @@ Több olyan is létezik, melyek a robotok világát, esetleg a CNC világot, vag
 Kezdőknek 2 boardot, és melléjük 2 MCUt ajánlok. Vegyél egy Arduino UNO kompatibilis boardot, mert ezzel képes leszel mind ATMega328, mind pedig ATTiny MCUkat programozni. A lényeg, hogy cserélhető legyen benne az ATMega328 MCU.
 Ezek alapján pár darab ATMega328PU (figyelni kell Alin a leírásban, hogy van e rajta Arduino kompatibilis bootloader. Az U betű elméletileg ezt jelenti náluk. De ez már a következő post témája lesz) MCUt mindenféleképpen érdemes beszerezni, mert ha félre kell rakni a projektet, csak kicseréled az MCUt, és van egy új boardod.
 A másik MCU pedig egy ATTiny85 legyen. Ezzel meg tudod tanulni a teljes ATTiny család kódolását, és picike, így mini projektekbe tökéletes a 8 kis lábával.
-A másik board pedig egy NodeMCU. Ebből olyat vegyél, amit leírtam a bevásárló listás posztom 1. részében. Tök jó kis dev board, a wifi alapokra, MQTTre, Mash hálózatok alapjainak a megismerésére teljesen jól használható, és baromi egyszerű kódolni.
+A másik board pedig egy NodeMCU. Ebből olyat vegyél, amit leírtam a bevásárló listás posztom [1. rész](./2020-01-24-hobbielektronika1.md)ében. Tök jó kis dev board, a wifi alapokra, MQTTre, Mash hálózatok alapjainak a megismerésére teljesen jól használható, és baromi egyszerű kódolni.
 STM32, és ESP32 boardokat kezdőknek azért nem ajánlom, mert nagyon komplexek. Nagy a tudásuk, és könnyű az elején eltévedni a lehetőségekben és a kód komplexitásukban. Majd, ha már úgy érzed, hogy kinőtted az ESP8266 és Arduino korlátait, akkor jöhetnek számításba. De ez már a jövő zenéje! A következő témám a programozásukról fog szólni.
 
 #### Kudo
@@ -98,8 +98,8 @@ ESP32 boardok összehasonlító táblázata - https://makeradvisor.com/esp32-dev
 STM32 MCUk összehasonlító táblázata, klikkelni kell tovább az adott családon - https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
 ATTiny család összehasonlító táblázata - https://en.wikipedia.org/wiki/ATtiny_microcontroller_comparison_chart
 ATTiny programozása Aruino UNOval (Nanoval is lehet, kb tök ugyanez) 4 perc alatt - https://youtu.be/AmpHIHM41Hw (a leírásban részletes step-by-step blogbejegyzésre van link)
-Vásárlás
-Arduino UNO klón - https://s.click.aliexpress.com/e/_dZlW7dx
-NodeMCU (csak CP2102) - https://s.click.aliexpress.com/e/_dZEmNhL
-ATTiny85 10db - https://s.click.aliexpress.com/e/_dXOKi5f
-ATMega328PU 5db - https://s.click.aliexpress.com/e/_dS6Vdl7
+### Vásárlás
+[Arduino UNO klón](https://s.click.aliexpress.com/e/_AsFlCa)  
+[NodeMCU (csak CP2102)](https://s.click.aliexpress.com/e/_dZEmNhL)  
+[ATTiny85 10db](https://s.click.aliexpress.com/e/_dXOKi5f)  
+[ATMega328PU 2db](https://s.click.aliexpress.com/e/_99h9kw)  
