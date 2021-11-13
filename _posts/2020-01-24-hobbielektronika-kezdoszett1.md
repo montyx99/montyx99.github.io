@@ -3,8 +3,6 @@ title: Hobbielektronika - részemről ajánlott kezdő szett (Part 1)
 layout: post
 author: montyx
 ---
-## Hobbielektronika - részemről ajánlott kezdő szett (Part 1)
-
 Sziasztok!
 Alig több, mint fél éve hobbiim közé bekerült az elektronika. Mai napig nagyon élvezem és hasznosnak tartom. A fő vonal, amivel foglalkozom az okos otthon témája, így eköré építettem fel a "raktáramat".
 Az Aliexpress lett a barátom, rengeteg mindent be lehet náluk szerezni nagyon olcsón. Persze sokat kell várni, de még mindig megéri. Sikerült is felhalmozni minden baromságot, amit azóta megbántam, így másoknak szeretnék segíteni ezzel a listával, melyet több részre fogok osztani előrehaladás szerint.
