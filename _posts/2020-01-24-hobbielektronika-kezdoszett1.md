@@ -80,34 +80,34 @@ Ezeket csak ajánlom, egyik se must have. Vagy jók kísérletezni és tanulni, 
 [ESP32](https://www.aliexpress.com/item/33053140589.html)
 2. Dummy load ellenállás - Arra jó, hogy beterhelj vele valamit, ha épp nincs kéznél valami fogyasztó:
 [Dummy load](https://s.click.aliexpress.com/e/_AlkNcm)
-3. Mágnesek - Nagyon jók például, ha rögzíteni kell valamit, vagy csavarhúzóra, hogy ki tudj venni vele egy csavart:
+3. Mágnesek - Nagyon jók például, ha rögzíteni kell valamit, vagy csavarhúzóra, hogy ki tudj venni vele egy csavart:  
 [Mágnesek](https://s.click.aliexpress.com/e/_AZzT7G)
-4. RTC module - Real Time Clock modul. Arra jó, hogy megjegyzi az időt akkor is, ha éppen nincs áram alatt az áramkör. Meg persze rakat minden másra:
+4. RTC module - Real Time Clock modul. Arra jó, hogy megjegyzi az időt akkor is, ha éppen nincs áram alatt az áramkör. Meg persze rakat minden másra:  
 [RTC](https://www.aliexpress.com/item/32533518502.html)
-5. Relé modul - Kérlek ne használd nagyfeszültség kapcsolására, amíg nem vagy biztos benne mit csinálsz. Meg tud ölni! Sima egyenáram, kisfeszültség kapcsolására marha jó. Tanulni pl egy LEDet kapcsolni vele, vagy egy kis villanymotorot, szervót.
+5. Relé modul - Kérlek ne használd nagyfeszültség kapcsolására, amíg nem vagy biztos benne mit csinálsz. Meg tud ölni! Sima egyenáram, kisfeszültség kapcsolására marha jó. Tanulni pl egy LEDet kapcsolni vele, vagy egy kis villanymotorot, szervót.  
 [Relé modul](https://www.aliexpress.com/item/33036926367.html)
-6. Boost converter - Feszültség növelő. Tanulni lehet vele a feszültség szabályozást. Direkt kijelzőset raktam be, mert azzal könnyebb bánni:
+6. Boost converter - Feszültség növelő. Tanulni lehet vele a feszültség szabályozást. Direkt kijelzőset raktam be, mert azzal könnyebb bánni:  
 [Boost converter](https://www.aliexpress.com/item/32294852872.html)
-7. Buck converter - Az előző teljesen megegyező ellentéte. Feszültség csökkentő:
+7. Buck converter - Az előző teljesen megegyező ellentéte. Feszültség csökkentő:  
 [Buck converter](https://www.aliexpress.com/item/32800211016.html)
-8. LED mátrix - Nagyon jól meg lehet vele tanulni a mátrix vezérlést. Fényújságnak, és állandó kijelzőnek, meg minden másra is jó lehet. Csak a képzelet szab határt:
+8. LED mátrix - Nagyon jól meg lehet vele tanulni a mátrix vezérlést. Fényújságnak, és állandó kijelzőnek, meg minden másra is jó lehet. Csak a képzelet szab határt:  
 [LED mátrix](https://www.aliexpress.com/item/32841678065.html)
-9. Mini szervó - Egy mini szervó mindig jól jön. Jó páros egy rotary encoderrel. Pozícionálást lehet vele tanulni:
+9. Mini szervó - Egy mini szervó mindig jól jön. Jó páros egy rotary encoderrel. Pozícionálást lehet vele tanulni:  
 [Mini szervó](https://www.aliexpress.com/item/32975618090.html)
-10. Mini szervó vezérlő - Próbáld ki a szervót MC nélkül is:
+10. Mini szervó vezérlő - Próbáld ki a szervót MC nélkül is:  
 [Szervó vezérlő](https://www.aliexpress.com/item/4000147360365.html)
-11. Mini elektromotor - Nem vágod vele agyon az áramforrást, olyan pici. A PWM és fordulat szabályzás tanulására nagyon jó:
+11. Mini elektromotor - Nem vágod vele agyon az áramforrást, olyan pici. A PWM és fordulat szabályzás tanulására nagyon jó:  
 [Elektromotor](https://www.aliexpress.com/item/32664796912.html)
-12. Mini PWM speed controller - Mini motorhoz mini vezérlő. Ez is hasznos, hogy előbb MC nélkül vezéreld a motort:
+12. Mini PWM speed controller - Mini motorhoz mini vezérlő. Ez is hasznos, hogy előbb MC nélkül vezéreld a motort:  
 [PWM controller](https://www.aliexpress.com/item/33045121306.html)
-13. Transistor pack - Ezzel lépsz be a modern fizika világába. Ezzel kezdődött a modern számítógép korszaka. Alaptudás, ebben a kitben benne van minden alap tranyó:
+13. Transistor pack - Ezzel lépsz be a modern fizika világába. Ezzel kezdődött a modern számítógép korszaka. Alaptudás, ebben a kitben benne van minden alap tranyó:  
 [Tranzisztorok](https://www.aliexpress.com/item/32856312651.html)
-14. BJT és MOSFET - Ezeket megértéshez ajánlom. Rakok is hozzá egy fasza magyarázó tutorialt:
-[Darlington](https://s.click.aliexpress.com/e/_AOwXoO)
-[MOSFET IRF520](https://s.click.aliexpress.com/e/_AUqf1o)
-[BJT 2N2222](https://s.click.aliexpress.com/e/_A7uYrY)
-[Tutorial1](https://dronebotworkshop.com/transistors-mosfets/)
-[Tutorial2](https://www.instructables.com/Transistor-Basics-BJTs/)
+14. BJT és MOSFET - Ezeket megértéshez ajánlom. Rakok is hozzá egy fasza magyarázó tutorialt:  
+[Darlington](https://s.click.aliexpress.com/e/_AOwXoO)  
+[MOSFET IRF520](https://s.click.aliexpress.com/e/_AUqf1o)  
+[BJT 2N2222](https://s.click.aliexpress.com/e/_A7uYrY)  
+[Tutorial1](https://dronebotworkshop.com/transistors-mosfets/)  
+[Tutorial2](https://www.instructables.com/Transistor-Basics-BJTs/)  
 
 No a végére pár gondolat. Ez egy hosszú lista. Nagyjából próbáltam fontossági sorrendben leírni a dolgokat. Ne vegyél meg persze egyből mindent, de ahogy haladsz tudásban, haladhatsz a listával is. Az eszközök és alkatrészek listák nagy részét sajnos már a legelején érdemes beszerezni, különben vagy itthon veszed meg ugyanazt a kínai csodát 5-10x-es áron (tapasztalat, hidd el. pl multimeter át van logózva, és 6x annyiba kerül), vagy pedig ülsz otthon heteket, és várod, hogy megjöjjön a hiányzó alkatrész. A egyebek lista pedig azért lesz majd fontos, hogy lépésenként megértsd az alapokat. Legyen mivel tutorialokat csinálni, és tanulni.
 Remélem hasznos a lista, minden tanácsot szívesen veszek.
