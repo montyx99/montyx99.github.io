@@ -89,15 +89,15 @@ STM32, és ESP32 boardokat kezdőknek azért nem ajánlom, mert nagyon komplexek
 #### Kudo
 
 Szeretném megköszönni a Hobbielektronika Facebook csoportban lévő tagoknak, akik segítettek pontosítani, így még hasznosabbá tenni ezt a posztot! Örök hála érte!
-Pár hasznos link
-NodeMCU documentáció - https://nodemcu.readthedocs.io/en/master/
-Arduino hivatalos oldala - https://www.arduino.cc/
-ESP8266 modulok összehasonlító táblázata - https://blog.squix.org/2015/03/esp8266-module-comparison-esp-01-esp-05.html
-ESP32 csipek összehasonlító táblázata - https://www.gridconnect.com/pages/espressif-product-comparison
-ESP32 boardok összehasonlító táblázata - https://makeradvisor.com/esp32-development-boards-review-comparison/
-STM32 MCUk összehasonlító táblázata, klikkelni kell tovább az adott családon - https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
-ATTiny család összehasonlító táblázata - https://en.wikipedia.org/wiki/ATtiny_microcontroller_comparison_chart
-ATTiny programozása Aruino UNOval (Nanoval is lehet, kb tök ugyanez) 4 perc alatt - https://youtu.be/AmpHIHM41Hw (a leírásban részletes step-by-step blogbejegyzésre van link)
+### Pár hasznos link
+[NodeMCU documentáció](https://nodemcu.readthedocs.io/en/master/)  
+[Arduino hivatalos oldala](https://www.arduino.cc/)  
+[ESP8266 modulok összehasonlító táblázata](https://blog.squix.org/2015/03/esp8266-module-comparison-esp-01-esp-05.html)  
+[ESP32 csipek összehasonlító táblázata](https://www.gridconnect.com/pages/espressif-product-comparison)  
+[ESP32 boardok összehasonlító táblázata](https://makeradvisor.com/esp32-development-boards-review-comparison/)  
+[STM32 MCUk összehasonlító táblázata, klikkelni kell tovább az adott családon](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  
+[ATTiny család összehasonlító táblázata](https://en.wikipedia.org/wiki/ATtiny_microcontroller_comparison_chart)  
+[ATTiny programozása Aruino UNOval (Nanoval is lehet, kb tök ugyanez) 4 perc alatt](https://youtu.be/AmpHIHM41Hw) (a leírásban részletes step-by-step blogbejegyzésre van link)
 ### Vásárlás
 [Arduino UNO klón](https://s.click.aliexpress.com/e/_AsFlCa)  
 [NodeMCU (csak CP2102)](https://s.click.aliexpress.com/e/_dZEmNhL)  
