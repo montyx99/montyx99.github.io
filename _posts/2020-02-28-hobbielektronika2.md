@@ -172,14 +172,8 @@ Továbbra is ajánlom a Hobbielektronika csoportot, a legjobb arcok, és a legse
 Köszönet és kudó Walter Reéb, Szabó Bálint illetve Professzore kollégáknak innen is! Nézzétek meg a többi videóikat is, én is nagyon sokat tanultam belőlük!
 
 
-| ![SMD és DIP különbségek](https://youtu.be/XTjp5XcysEA) | 
-|:--:| 
-| *SMD és DIP különbségek* |
-Forrasztás alapok
-https://youtu.be/XTjp5XcysEA
-SMD forrasztás alapok
-https://youtu.be/jPYt-QsSz6M
-Páka hegy tisztítás és karbantartás
-https://youtu.be/vZD5i4cWqoU
-TS100-as páka bemutató
-https://youtu.be/-BcO63KE9FQ
+[SMD és DIP különbségek](https://youtu.be/XTjp5XcysEA)
+[Forrasztás alapok](https://youtu.be/XTjp5XcysEA)
+[SMD forrasztás alapok](https://youtu.be/jPYt-QsSz6M)
+[Páka hegy tisztítás és karbantartás](https://youtu.be/vZD5i4cWqoU)
+[TS100-as páka bemutató](https://youtu.be/-BcO63KE9FQ)
