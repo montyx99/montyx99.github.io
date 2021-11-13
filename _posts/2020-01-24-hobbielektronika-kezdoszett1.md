@@ -103,10 +103,15 @@ Ezeket csak ajánlom, egyik se must have. Vagy jók kísérletezni és tanulni, 
 13. Transistor pack - Ezzel lépsz be a modern fizika világába. Ezzel kezdődött a modern számítógép korszaka. Alaptudás, ebben a kitben benne van minden alap tranyó:
 [Tranzisztorok](https://www.aliexpress.com/item/32856312651.html)
 14. BJT és MOSFET - Ezeket megértéshez ajánlom. Rakok is hozzá egy fasza magyarázó tutorialt:
+
 [Darlington](https://s.click.aliexpress.com/e/_AOwXoO)
+
 [MOSFET IRF520](https://s.click.aliexpress.com/e/_AUqf1o)
+
 [BJT 2N2222](https://s.click.aliexpress.com/e/_A7uYrY)
+
 [Tutorial1](https://dronebotworkshop.com/transistors-mosfets/)
+
 [Tutorial2](https://www.instructables.com/Transistor-Basics-BJTs/)
 
 No a végére pár gondolat. Ez egy hosszú lista. Nagyjából próbáltam fontossági sorrendben leírni a dolgokat. Ne vegyél meg persze egyből mindent, de ahogy haladsz tudásban, haladhatsz a listával is. Az eszközök és alkatrészek listák nagy részét sajnos már a legelején érdemes beszerezni, különben vagy itthon veszed meg ugyanazt a kínai csodát 5-10x-es áron (tapasztalat, hidd el. pl multimeter át van logózva, és 6x annyiba kerül), vagy pedig ülsz otthon heteket, és várod, hogy megjöjjön a hiányzó alkatrész. A egyebek lista pedig azért lesz majd fontos, hogy lépésenként megértsd az alapokat. Legyen mivel tutorialokat csinálni, és tanulni.
