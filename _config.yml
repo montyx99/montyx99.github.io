@@ -1,3 +1,5 @@
-theme: jekyll-theme-minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Montyx in da hause
 description: Mindefajta ami eszembe jut. Kütyük, Ubuntu, Windows, munka, magánélet, hobbik, stb
