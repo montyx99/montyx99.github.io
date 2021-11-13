@@ -5,9 +5,3 @@ layout: default
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 {{ content }}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
-<br /><br /><a href="/index.html" >&lt;&lt;&nbsp; Back</a>
