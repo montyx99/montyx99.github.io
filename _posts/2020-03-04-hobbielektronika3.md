@@ -19,7 +19,6 @@ integrated circuit - What is a "DIE" package? - Electrical ...
 |:--:| 
 | *IC belseje* |
 
-
 A képen látható, hogy valaki már szép piros (narancs? barack? Az asszony tuti tudná, hogy lazac :D) vonalkákkal fel is osztotta a chip területét. Ezek közül párat kiemelnék, ami fontos:
 **CPU**: ez a központi feldolgozási egység. Az agy. Van sokféle, 8-bit, 32-bit, egymagos, többmagos, stb.
 **ISP Flash Memory**: Ez az a memória terület, ahol a bootloader, és maga a kód, amit megírsz fog tárolódni. Ez nem felejtő memória, azaz áramtalanítás után is megmarad a tartalma.
