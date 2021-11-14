@@ -2,6 +2,8 @@
 title: Hobbielektronika - részemről ajánlott kezdő szett (Part 1)
 layout: post
 author: montyx
+categories: electronics
+tags: hobbielekronika elektronika táp akku breadboard ellenállás mcu esp8266 arduino esp32 attiny szerszámok
 ---
 Sziasztok!
 Alig több, mint fél éve hobbiim közé bekerült az elektronika. Mai napig nagyon élvezem és hasznosnak tartom. A fő vonal, amivel foglalkozom az okos otthon témája, így eköré építettem fel a "raktáramat".

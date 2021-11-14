@@ -2,6 +2,8 @@
 title: Hobbielektronika - Mikrokontrollerekről kezdőknek (Intro)
 layout: post
 author: montyx
+categories: electronics
+tags: hobbielekronika elektronika táp mcu esp8266 arduino esp32 stm32 attiny memória flash eeprom spi pin pinout
 ---
 Az előbbi két posztom olvasószámát látva úgy döntöttem, hogy folytatom a blogomon a hobbielektronika világában folytatott csetlésem-botlásom kapcsán felgyülemlett tudásom megosztását, hogy másokat is bátorítsak ugyanerre. Ha csak egy valakinek meghozom a kedvét a ténfergésre, akkor már megérte! :)
 

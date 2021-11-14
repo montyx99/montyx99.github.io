@@ -2,6 +2,8 @@
 title: Hobbielektronika - részemről ajánlott kezdő szett (Part 2)
 layout: post
 author: montyx
+categories: electronics
+tags: hobbielekronika elektronika szerszámok forrasztó páka ón harmadikkéz ts100 ts80 ts80p
 ---
 Üdv ismét!
 Sok víz folyt már le a Dunán, mióta megírtam az első részt. Sok minden vacak megfordult azóta is a kezemben, úgyhogy folytatnám az előző listát. Immáron megpróbálom fotókkal kiegészíteni, hátha az Aliexpresses linkek megdöglenek. Illetve pár dolgot angolul is leírok, vagy csak angolul, ha nem tudom a magyar megfelelőjét. Az angol szavakat azért akarom kiemelni, mert így sok mindent egyszerűbb lesz később Alin keresni.

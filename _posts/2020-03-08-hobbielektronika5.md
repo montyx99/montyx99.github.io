@@ -2,6 +2,8 @@
 title: Hobbielektronika - Mikrokontroller bootloader (Témázgató)
 layout: post
 author: montyx
+categories: electronics
+tags: hobbielekronika elektronika bootloader mcu
 ---
 A Témázgató mindig egy kis rövid tartalom lesz, ha meg akarok osztani valami olyasmit, amit egy hosszabb lélegzetű posztban nem akartam kifejteni. Mivel az ITban az angol az alapnyelv, így nem igazán tudok a bootloaderre jó magyar kifejezést. Talán előtöltőnek tudnám nevezni. Biztos van rá valami okosság, de jobb bootloaderként megtanulni, és így használni.
 Miről is van szó? Ha az ember megvesz mondjuk egy kínai klón arduinot, akkor az a meglepetés érheti, hogy nem mindig van rajta booloader. Amikor újraindul a board, nem villan fel a beépített LED rajta.

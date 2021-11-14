@@ -2,6 +2,8 @@
 title: Hobbielektronika - Mikrokontroller IO pin alapozó (Part 1)
 layout: post
 author: montyx
+categories: electronics
+tags: hobbielekronika elektronika táp mcu esp8266 arduino pinout atmega328
 ---
 Az előző posztom publikálása után nagyon sok segítséget kaptam a Hobbielektronika csoport tagjaitól. Örökké hálás leszek érte, és a jövőben is szívesen látok hasonló nagyon jó építő jellegű kritikát. Így a mai témám esetén is.
 Ezek pedig egy panel, illetve a rajta található MCU lábai. Hogy lehet megtudni, hogy melyik IO pin mit tud? Ami fontos, hogy ne ijedjünk meg tőle. Hirtelen soknak fog tűnni, de próbállak titeket végigvezetni ezen a dzsungelen.
