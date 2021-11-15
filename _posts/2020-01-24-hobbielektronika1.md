@@ -54,8 +54,9 @@ FONTOS! Három fontos dolog van, amit tudni érdemes róla. Az első, hogy csak 
 5. Szenzorok - Na itt tud elszállni az ember agya. Van millió egy fajta. Ebbe nem is szólnék bele, döntsd el, hogy téged mi érdekel. Ezért inkább egy megbízható boltot ajánlanék, ahol fasza szenzorokat lehet kapni:  
 [Shop](https://www.aliexpress.com/store/group/Sensor/1678083_509516053.html)
 6. Csatlakozók/kábelek - Ezeket azért érdemes beszerezni, mert ugye el kell juttatni az áramot a breadboardig, fel kell tudni kódolni a NodeMCUt, meg hasonlók. Kezdjük azzal, ami az elem/aksi tartóhoz fog kelleni, meg a breadboard táphoz:  
-[5,5x2,1 csatik](https://www.aliexpress.com/item/32990462283.html)
+[5,5x2,1 csatik](https://www.aliexpress.com/item/32990462283.html)  
 Következő az USB kábel a NodeMCUhoz. FONTOS! Legyen benne adatkábel. Sok olcsóban nincs, csak töltőnek használható. Érdemes három fajtát tartani otthon. Mini, micro, és sima. Esetleg egy USB-C is jól fog majd jönni, de az ráér. Csak egy-egy példa:  
+[Micro USB](https://s.click.aliexpress.com/e/_A8mtfG)  
 [Mini USB](https://www.aliexpress.com/item/32826618241.html)  
 [Type A USB-USB](https://www.aliexpress.com/item/32666322698.html)
 7. 555 - Ez legyen az első kezdő Integrated Circuitod, azaz IC-d. Egy timer. Tanuld meg, hogy lehet vele LEDeket vezérelni. Ha ezt érted, akkor az összes többi IC menni fog. Foglalattal használd, ne az IC lábait vágd agyon:  
