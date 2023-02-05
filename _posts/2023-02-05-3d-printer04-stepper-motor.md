@@ -57,7 +57,7 @@ Itt jön közbe a az úgynevezett buszfeszültség. Azaz a rendszered milyen fes
 
 Minél nagyobb a buszfeszültség, annál hamarabb töltődik fel a tekercs. 5V esetén a 90%-ot, azaz 4.5A-t cca 4, míg 25V esetén cca 1 millisecond alatt éri el a motor fázis tekercse. Ezzel már rendesen lehet pörgetni a motort. Persze a feszültség növelésével nő a rezonancia és az elfűtött hő mennyisége is, de a forrásom szerint ökölszabályként kimondható, hogy egy rendes motor a megadott fázis feszültsége x 10-24 buszfeszültség használható, azaz mondjuk 2V fázis mellett 20-48V a maximum használható buszfeszültség a rendszer és a motor veszélyeztetése nélkül.
 
-Nagyjából ennyire gondoltam, hogy megosztok a témával kapcsolatban. Ha kérdés merülne fel, akkor megtalálsz a Telegram csatornánkon: https://t.me/+ALE1Kya1HFpiNjRk
+Nagyjából ennyire gondoltam, hogy megosztok a témával kapcsolatban. Ha kérdés merülne fel, akkor megtalálsz a Telegram csatornánkon: [Telegram csoport](https://t.me/+ALE1Kya1HFpiNjRk)
 
 ### Kudo
 [MotionKing](http://www.motionking.com/search_c.asp)
