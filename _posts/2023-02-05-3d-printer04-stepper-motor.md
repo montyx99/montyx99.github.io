@@ -68,6 +68,6 @@ Nagyjából ennyire gondoltam, hogy megosztok a témával kapcsolatban. Ha kérd
 [Mellow LDO extruder motor](https://s.click.aliexpress.com/e/_DkRJGwH)  
 [Mellow MOONS 48mm hosszú nema17 motor](https://s.click.aliexpress.com/e/_DdGUGqV)  
 [Mellow LDO 60mm hosszú nema17 motor](https://s.click.aliexpress.com/e/_DCtGlEt)  
-[UsongShine nema17 17HS4401 motor pack](https://s.click.aliexpress.com/e/_DFkW5df)
-[StepperOnline nema17 17HS08 extruder pancake motor](https://s.click.aliexpress.com/e/_DkXwvs5)
+[UsongShine nema17 17HS4401 motor pack](https://s.click.aliexpress.com/e/_DFkW5df)  
+[StepperOnline nema17 17HS08 extruder pancake motor](https://s.click.aliexpress.com/e/_DkXwvs5)  
 
