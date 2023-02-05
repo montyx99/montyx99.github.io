@@ -60,7 +60,7 @@ Minél nagyobb a buszfeszültség, annál hamarabb töltődik fel a tekercs. 5V 
 Nagyjából ennyire gondoltam, hogy megosztok a témával kapcsolatban. Ha kérdés merülne fel, akkor megtalálsz a Telegram csatornánkon: [Telegram csoport](https://t.me/+ALE1Kya1HFpiNjRk)
 
 ### Kudo
-[MotionKing](http://www.motionking.com/search_c.asp)
+[MotionKing](http://www.motionking.com/search_c.asp)  
 [Elinko International JPC](https://www.e-jpc.com/stepper-motor-voltage-explained/)  
 [Novanta IMS](https://novantaims.com/application-note/calculating-inertia-sizing-stepper-motors/)
 
