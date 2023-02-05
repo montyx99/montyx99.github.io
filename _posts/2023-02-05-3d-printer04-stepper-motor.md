@@ -1,5 +1,5 @@
 ---
-title: 3D printing - Stepper motor alapok (Alapok)
+title: 3D printing - Stepper motor (Alapozó)
 layout: post
 author: montyx
 categories: 3d-printing
