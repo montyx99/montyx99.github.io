@@ -1,0 +1,16 @@
+# Name of workflow
+name: My Test Workflow
+
+# Trigger event
+on: [push, pull_request]
+
+# Jobs run in pararell by default, each runs steps in sequence
+jobs:
+
+  # Job to print something out
+  say-hello:
+    # Define running environment
+    runs-on: ubuntu-latest
+    # Define steps to run on env
+    steps:
+      - run: echo "Hello GitHub Actions!"
