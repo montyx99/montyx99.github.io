@@ -48,18 +48,18 @@ Akkor térjünk vissza kicsit az indukcióra. Egész pontosan a fenti felsorolá
 |:--:| 
 | *Áramerő 2.5V feszültség esetén az idő függvényében* |
 
-Az ábrán látható görbe megmutatja, hogy a vizsgált motor esetében 2.5V feszültség esetén a fázis tekercs kb. 10 ms alatt éri el a szükséges 5A 90%-át, míg 16 ms alatt annak a 98%-át. Ekkor fordul 1.8 fokot a motor. na ez viszont azt jelenti, hogy a teljes körfordulat 200 lépését (360/1.8 fok) kb 3.2 másodperc alatt éri el. ami ugye azt jelentené, hogy használhatatlanul lassú lenne a motor.
+Az ábrán látható görbe megmutatja, hogy a vizsgált motor esetében 2.5V feszültség esetén a fázis tekercs kb. 10 ms alatt éri el a szükséges 5A 90%-át, míg 16 ms alatt annak a 98%-át. Ekkor fordul 1.8 fokot a motor, ez viszont azt jelenti, hogy a teljes körfordulat 200 lépését (360/1.8 fok) kb 3.2 másodperc alatt éri el. Ez persze azt jelentené, hogy használhatatlanul lassú lenne a motor.
 Itt jön közbe a az úgynevezett buszfeszültség. Azaz a rendszered milyen feszültség értéken dolgozik. Elterjedt a 12V-os és a 24V-os rendszer a nyomtatókban. Persze erősebb motor driverekkel, mint pl. TMC5160-as ennél jóval magasabb értéken is lehet működtetni.
 
 | ![Fenti grafikon feszültség eltérés esetén](/docs/assets/20230205-stepper-aramero-ido-fuggveny-feszultseg.jpg)   | 
 |:--:| 
 | *Fenti grafikon feszültség eltérés esetén* |
 
-Minél nagyobb a buszfeszültség, annál hamarabb töltődik fel a tekercs. 5V esetén a 90%-ot, azaz 4.5A-t cca 4, míg 25V esetén cca 1 millisecond alatt éri el a motor fázis tekercse. Ezzel már rendesen lehet pörgetni a motort. Persze a feszültség növelésével nő a rezonancia és az elfűtött hő mennyisége is, de a forrásom szerint ökölszabályként kimondható, hogy egy rendes motor a megadott fázis feszültsége x 10-24 buszfeszültség használható, azaz mondjuk 2V fázis mellett 20-48V a maximum használható buszfeszültség a rendszer és a motor veszélyeztetése nélkül.
+Minél nagyobb a buszfeszültség, annál hamarabb töltődik fel a tekercs. 5V esetén a 90%-ot, azaz 4.5A-t cca 4ms, míg 25V esetén cca 1ms alatt éri el a motor fázis tekercse. Ezzel már rendesen lehet pörgetni a motort. Persze a feszültség növelésével nő a rezonancia és az elfűtött hő mennyisége is, de a forrásom szerint ökölszabályként kimondható, hogy egy rendes motor a megadott fázis feszültsége x 10-24 buszfeszültség használható, azaz mondjuk 2V fázis mellett 20-48V a maximum használható buszfeszültség a rendszer és a motor veszélyeztetése nélkül.
 
 Nagyjából ennyire gondoltam, hogy megosztok a témával kapcsolatban. Ha kérdés merülne fel, akkor megtalálsz a Telegram csatornánkon: [Telegram csoport](https://t.me/+ALE1Kya1HFpiNjRk)
 
-### Kudo
+### Kudo (források)
 [MotionKing](http://www.motionking.com/search_c.asp)  
 [Elinko International JPC](https://www.e-jpc.com/stepper-motor-voltage-explained/)  
 [Novanta IMS](https://novantaims.com/application-note/calculating-inertia-sizing-stepper-motors/)
